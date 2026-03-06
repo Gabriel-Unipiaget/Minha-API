@@ -7,5 +7,5 @@ npm install express
 
 ### Criando API
 criar arquivo index.js  
-A API está rodando na PORT 3000  
-Primeira route "/" = Retorna ( "Olá, Mundo!" )
+a API está rodando na PORT 3000  
+primeira route "/" = Retorna ( "Olá, Mundo!" )
